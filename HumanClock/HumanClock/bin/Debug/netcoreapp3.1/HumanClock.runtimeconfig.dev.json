@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dsaxena\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dsaxena\\.nuget\\packages"
+    ]
+  }
+}

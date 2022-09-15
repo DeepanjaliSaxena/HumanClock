@@ -1,0 +1,13 @@
+C:\Users\dsaxena\source\repos\HumanClock\HumanClock\bin\Debug\netcoreapp3.1\HumanClock.exe
+C:\Users\dsaxena\source\repos\HumanClock\HumanClock\bin\Debug\netcoreapp3.1\HumanClock.deps.json
+C:\Users\dsaxena\source\repos\HumanClock\HumanClock\bin\Debug\netcoreapp3.1\HumanClock.runtimeconfig.json
+C:\Users\dsaxena\source\repos\HumanClock\HumanClock\bin\Debug\netcoreapp3.1\HumanClock.runtimeconfig.dev.json
+C:\Users\dsaxena\source\repos\HumanClock\HumanClock\bin\Debug\netcoreapp3.1\HumanClock.dll
+C:\Users\dsaxena\source\repos\HumanClock\HumanClock\bin\Debug\netcoreapp3.1\HumanClock.pdb
+C:\Users\dsaxena\source\repos\HumanClock\HumanClock\obj\Debug\netcoreapp3.1\HumanClock.csprojAssemblyReference.cache
+C:\Users\dsaxena\source\repos\HumanClock\HumanClock\obj\Debug\netcoreapp3.1\HumanClock.AssemblyInfoInputs.cache
+C:\Users\dsaxena\source\repos\HumanClock\HumanClock\obj\Debug\netcoreapp3.1\HumanClock.AssemblyInfo.cs
+C:\Users\dsaxena\source\repos\HumanClock\HumanClock\obj\Debug\netcoreapp3.1\HumanClock.csproj.CoreCompileInputs.cache
+C:\Users\dsaxena\source\repos\HumanClock\HumanClock\obj\Debug\netcoreapp3.1\HumanClock.dll
+C:\Users\dsaxena\source\repos\HumanClock\HumanClock\obj\Debug\netcoreapp3.1\HumanClock.pdb
+C:\Users\dsaxena\source\repos\HumanClock\HumanClock\obj\Debug\netcoreapp3.1\HumanClock.genruntimeconfig.cache
